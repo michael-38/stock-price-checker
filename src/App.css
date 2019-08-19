@@ -1,0 +1,39 @@
+.App-logo {
+  height: 80px;
+  margin-right: 60px;
+}
+
+.App-header {
+  display: flex;
+  justify-content: flex-start;
+  background-color: white;
+  padding: 20px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+body {
+  font-family: 'Roboto', sans-serif
+}
+
+.display-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-justify-center {
+  justify-content: center
+}
+
+.flex-justify-space-between {
+  justify-content: space-between
+}
+
+.flex-align-items-center {
+  align-items: center
+}
