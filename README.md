@@ -1,6 +1,6 @@
 ## Lendesk - Coding Challenge
 
-Single-page app that allows users to enter a stock symbol and retrieve information on the current stock price and company's information.
+Single-page app that allows users to enter a stock symbol and retrieve information on the current stock price and company's description.
 
 ### Installation
 
@@ -28,5 +28,5 @@ Enter stock symbol in input field and click search button.
 
 ### Screenshot
 
-!["Sample Screenshot"]()
+!["Sample Screenshot"](https://github.com/michael-38/stock-price-checker/blob/master/docs/sample_screenshot.png)
 
