@@ -1,4 +1,4 @@
-## Lendesk - Coding Challenge
+## Stock Price Checker
 
 Single-page app that allows users to enter a stock symbol and retrieve information on the current stock price and company's description.
 
@@ -8,6 +8,8 @@ After downloading files:
 ```
 npm install
 ```
+
+Note: May require new IEX API tokens (see server.js file)
 
 To run in local environment:
 ```
