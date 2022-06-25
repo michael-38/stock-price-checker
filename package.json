@@ -5,7 +5,7 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "react": "^16.9.0",
     "react-autosuggest": "^9.4.3",
     "react-dom": "^16.9.0",
